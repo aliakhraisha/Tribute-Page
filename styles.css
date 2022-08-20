@@ -1,0 +1,13 @@
+*image {
+    max-width:100%;
+    Max-height:100%;
+    margin:center;
+  }
+  img{
+    display:block;
+  
+  }
+  #image{
+      max-width:100%;
+  
+  }
